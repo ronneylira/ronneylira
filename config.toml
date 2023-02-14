@@ -1,4 +1,4 @@
-baseURL = 'http://www.ronneylira.com/'
+baseURL = 'https://ronneylira.github.io'
 languageCode = 'en-us'
 title = 'Ronney Lira Down the Code'
 theme = "m10c"
