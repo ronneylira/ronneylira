@@ -1,0 +1,44 @@
+baseURL: "https://ronneylira.github.io" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Ronney Lira
+paginate: 5
+theme: hugo-PaperMod
+staticDir: static
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+googleAnalytics: UA-38786955-1
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Ronney Lira
+    description: "brazilian software developer based in the Netherlands"
+    keywords: [Blog, Ronney Lira, Developer]
+    author: Ronney Lira # author: ["Me", "You"] # multiple authors
+    #images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+    
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "brazilian software developer based in the Netherlands"
+        imageUrl: "avatar.png" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/ronneylira"
+        - name: "Linkedin"
+          url: "https://nl.linkedin.com/in/ronneylira"
