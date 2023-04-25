@@ -30,6 +30,8 @@ params:
     ShowReadingTime: true
     ShowShareButtons: true
     ShowCodeCopyButtons: true
+    assets:
+      disableFingerprinting: true
 
     profileMode:
         enabled: true
