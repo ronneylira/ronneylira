@@ -1,9 +1,8 @@
-{{- $pages := union .RegularPages .Sections }}
-
 {{- $class := "post-entry" }}
-<h2 style="text-align: center">{{ "Latest Posts" | markdownify }}</h2>
+
 <br>
-{{ range first 5 (where (where .Site.Pages.ByLastmod.Reverse "Type" "==" "posts") "Title" "!=" "Posts") }}
+
+{{ range first 5 (where (where .Pages.ByLastmod.Reverse "Type" "==" "posts") "Title" "!=" "Posts") }}
 
   <article class="{{ $class }}">
     {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
