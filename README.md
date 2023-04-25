@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronneylira&label=Profile%20views&color=0e75b6&style=flat" alt="ronneylira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronneylira" alt="ronneylira" /></a> </p>
-
 - 🌱 I’m currently learning **k8s, react**
 
-- 📝 I regularly write articles on [https://ronneylira.com](ronneylira.com)
+- 📝 I regularly write articles on [ronneylira.com](https://ronneylira.com)
 
 - 💬 Ask me about **c#, azure, k8s**
 
 - 📫 How to reach me **ronney.lira@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.in/ronneylira](linkedin.in/ronneylira)
+- 📄 Know about my experiences [linkedin.in/ronneylira](https://linkedin.in/ronneylira)
 
 
 <p align="left">
