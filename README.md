@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **k8s, react**
 
-- 📝 I regularly write articles on [ronneylira.com](ronneylira.com)
+- 📝 I regularly write articles on [https://ronneylira.com](ronneylira.com)
 
 - 💬 Ask me about **c#, azure, k8s**
 
 - 📫 How to reach me **ronney.lira@gmail.com**
 
-- 📄 Know about my experiences [[https://linkedin.in/ronneylira](linkedin.in/ronneylira)]
+- 📄 Know about my experiences [https://linkedin.in/ronneylira](linkedin.in/ronneylira)
 
 
 <p align="left">
