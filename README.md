@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ronney.lira@gmail.com**
 
-- 📄 Know about my experiences [linkedin.in/ronneylira](https://nl.linkedin/in/ronneylira)
+- 📄 Know about my experiences [linkedin.in/ronneylira](https://nl.linkedin.com/in/ronneylira)
 
 
 <p align="left">
