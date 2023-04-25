@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ronney.lira@gmail.com**
 
-- 📄 Know about my experiences [linkedin.in/ronneylira](linkedin.in/ronneylira)
+- 📄 Know about my experiences [https://linkedin.in/ronneylira](linkedin.in/ronneylira)
 
 
 <p align="left">
