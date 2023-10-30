@@ -11,7 +11,7 @@ categories:
   - devops
   - pipelines
 slug: NU5025-error-the-file-to-be-packed-was-not-found-on-disk
-lastmod: 2023-10-30T10:39:35.199Z
+lastmod: 2023-10-30T10:46:18.259Z
 ---
 For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we've decided to stop using MyGet and switch to GitHub Artifacts as our new provider.
 
@@ -34,7 +34,8 @@ After several rounds of testing and investigation, we successfully identified th
 ```xml
 <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 ```
+this is being tracked in an [issue](ttps://github.com/dotnet/sdk/issues/10335) in the dotnet sdk repo.
 
-To avoid package generation in the classic pipelines, we had decided to perform it during the build process. However, with a dedicated pack task, this approach was not functioning as anticipated. So, we removed the tag, and voilà, it's now packaging correctly.
+To avoid package generation in the classic pipelines, we had decided to perform it during the build process. However, with a dedicated pack task, this approach was not functioning as anticipated. So, we removed the tag, and voilà, it's now packing correctly.
 
 As we adapt and grow, we continually discover new solutions and uncover unexpected challenges. Remember, every obstacle presents an opportunity for growth and improvement. I hope this post helps you.
