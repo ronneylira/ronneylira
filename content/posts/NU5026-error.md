@@ -2,7 +2,7 @@
 title: "NU5026: The file to be packed was not found on disk"
 description: ""
 date: 2023-10-30T10:50:15+01:00
-draft: true
+draft: false
 tags:
   - dotnet
   - devops
@@ -11,7 +11,7 @@ categories:
   - devops
   - pipelines
 slug: NU5025-error-the-file-to-be-packed-was-not-found-on-disk
-lastmod: 2023-10-30T10:12:35.103Z
+lastmod: 2023-10-30T10:39:35.199Z
 ---
 For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we've decided to stop using MyGet and switch to GitHub Artifacts as our new provider.
 
