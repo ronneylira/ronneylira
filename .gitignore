@@ -1,3 +1,4 @@
 .hugo_build.lock
 public/
 .frontmatter/database/taxonomyDb.json
+.frontmatter/database/pinnedItemsDb.json
