@@ -1,14 +1,14 @@
 ---
 title: 2024 03 06 Build Performance With Roslyn
 date: 2024-03-06T10:21:39+01:00
-draft: true
+draft: false
 tags:
   - roslyn
   - dontet-framework
 categories:
   - performance
 slug: build-performance-roslyn
-lastmod: 2024-03-06T10:12:10.756Z
+lastmod: 2024-03-06T10:12:16.941Z
 ---
 [Roslyn](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/) has been kicking around for a couple of years now, and it's got some seriously cool tricks up its sleeve for how you build and keep your code in line.
 
