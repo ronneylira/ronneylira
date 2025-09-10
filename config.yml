@@ -1,6 +1,7 @@
 baseURL: "https://ronneylira.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Ronney Lira
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: hugo-PaperMod
 staticDir: static
 
@@ -16,6 +17,16 @@ googleAnalytics: "G-PL1M6CZCH9"
 minify:
     disableXML: true
     minifyOutput: true
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
+ignoreErrors:
+    - error-deprecated
+ignoreLogs:
+    - warning-goldmark-raw-html
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
