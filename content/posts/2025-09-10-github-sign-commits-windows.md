@@ -1,5 +1,5 @@
 ---
-title: "Getting Those Green Verified Badges: GPG Commit Signing on Windows That Actually Works"
+title: "GPG Commit Signing on GitHub via Windows That Actually Works"
 date: 2025-09-10
 draft: false
 tags: ["git", "gpg", "windows", "security", "github", "development"]

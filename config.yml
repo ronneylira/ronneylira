@@ -46,10 +46,10 @@ params:
 
     profileMode:
         enabled: true
-        title: "<Title>" # optional default will be site title
+        title: "Ronney Lira"
         subtitle: "brazilian software developer based in the Netherlands"
         imageUrl: "avatar.png" # optional
-        imageTitle: "<title of image as alt>" # optional
+        imageTitle: "Ronney Lira Profile Image"
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
